@@ -33,5 +33,22 @@ Console.WriteLine(novoTexto);
 
 
 
-//3 exercício
+//3° exercício
+
+
+
+
+
+
+
+
+
+//4° Exercício
+
+        string input = "hello, how are you ? i`m fine, thank you.";
+        string output = (input.ToLower());
+        
+        Console.WriteLine(output);
+
+
 
