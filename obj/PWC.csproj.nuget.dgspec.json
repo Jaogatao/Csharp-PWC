@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj": {}
+    "C:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj": {
+    "C:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj",
+        "projectUniqueName": "C:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj",
         "projectName": "PWC",
-        "projectPath": "c:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj",
+        "projectPath": "C:\\Users\\Antônio\\Desktop\\PWC\\PWC.csproj",
         "packagesPath": "C:\\Users\\Antônio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Antônio\\Desktop\\PWC\\obj\\",
+        "outputPath": "C:\\Users\\Antônio\\Desktop\\PWC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Antônio\\AppData\\Roaming\\NuGet\\NuGet.Config"

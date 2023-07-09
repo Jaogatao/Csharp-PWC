@@ -1,21 +1,37 @@
 ﻿//1° Exercício 
 
-string texto = "Hello, World OpenAI is amazing";
-string[] palavras = texto.Split(' ');
-string textoInvertido = "";
+ string texto1 = "Hello, World OpenAI is amazing";
+ string[] palavras = texto1.Split(' ');
+ string textoInvertido = "";
 
-for (int i = palavras.Length - 1; i >= 0; i--)
-{
-    textoInvertido += palavras[i];
+ for (int i = palavras.Length - 1; i >= 0; i--)
+ {
+     textoInvertido += palavras[i];
 
     if (i != 0)
-    {
-        textoInvertido += " ";
-    }
-}
+   {
+       textoInvertido += " ";
+   }
+ }
 
 
 //2° exercício 
 
 
+string texto2 = "Hello, World!";
+string novoTexto = "";
+
+for(int i= 0; i <= texto2.Length - 1; i++)
+{
+if(novoTexto.IndexOf(texto2[i]) == -1)
+{
+    novoTexto += texto2[i];
+}
+}
+
+Console.WriteLine(novoTexto);
+
+
+
+//3 exercício
 
